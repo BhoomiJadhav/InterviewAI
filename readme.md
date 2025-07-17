@@ -121,15 +121,7 @@ The **AI-Based Mock Interview Preparation System** is a state-of-the-art platfor
    ```
 5. Open the browser and access the application at `http://localhost:3000`.
 
-## 📸 Output
-### 🎥 Screenshots & Video Demonstrations
-- 🎬 [Project Demo Video](https://your-demo-video-link.com)
-- **Screenshots**:
-  - 🖥️ Dashboard UI
-  - 🏢 Space Creation
-  - 🎤 Interview Questions Screen
-  - 🎙️ Voice Answering System
-  - 📊 AI-Generated Feedback & Summary
+
 
 ## 🚀 Future Enhancements
 1. **🧠 Custom AI Model Training**
@@ -142,19 +134,10 @@ The **AI-Based Mock Interview Preparation System** is a state-of-the-art platfor
 4. **☁️ Cloud Deployment**
    - Deploy on AWS/GCP for better scalability and global reach.
 
-## 🤝 Contributions
-This project is **open-source forever!** Contributions are welcome. Feel free to:
-- 🎨 Improve UI/UX
-- 🧠 Optimize AI algorithms
-- 🗄️ Enhance database efficiency
-- 🚀 Add new features
 
-Fork the repository, make changes, and submit a **pull request**!
 
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
 
-### **🎉 Happy Coding & Best of Luck for Your Interviews! 🚀**
 
